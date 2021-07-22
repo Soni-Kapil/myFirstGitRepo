@@ -6,3 +6,5 @@ Glue
 Markers
 Pins
 Chart-papers
+jake#1-Staplers
+jake#2-Crayons
